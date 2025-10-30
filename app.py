@@ -1826,7 +1826,7 @@ def unlock_flag():
         with open('flag.txt', 'r') as f:
             flag = f.read().strip()
     except FileNotFoundError:
-        flag = 'vnr_w4rz0n3{J44th1r4tN4lu_3Fr13nds_0n3Dr34m_2021_L1f3_S3tt4y1ndh1}'
+        flag = 'w4rz0n3{J44th1r4tN4lu_3Fr13nds_0n3Dr34m_2021_L1f3_S3tt4y1ndh1}'
     
     # Mark as completed
     user_sessions[session_token]['stage'] = 6
