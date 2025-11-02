@@ -654,7 +654,7 @@ def cafe_entrance(word):
         </div>
         
         <div style="background: rgba(253, 185, 19, 0.1); padding: 30px; margin: 30px 0; border-radius: 15px; border: 2px solid #FDB913;">
-            <h3 style="text-align: center; color: #FDB913; margin-bottom: 20px;">📄 Document 2: Chantibabu Sequel</h3>
+            <h3 style="text-align: center; color: #FDB913; margin-bottom: 20px;">📄 Document 2: Chanakya_murder</h3>
             <p style="text-align: center; font-size: 1.1em; margin: 20px 0;">
                 Required Document: 
                 <a href="/download/chanakya_murder.exe?session={{ session }}" target="_blank" style="color: #FDB913; font-weight: bold; text-decoration: underline; font-family: 'Courier New', monospace;">
@@ -676,7 +676,7 @@ def cafe_entrance(word):
                 </div>
                 
                 <div class="upload-box">
-                    <label for="file2">🎭 Chantibabu Sequel Document:</label>
+                    <label for="file2">🎭 Chanakya Murder Document:</label>
                     <input type="file" id="file2" name="file2" accept=".pdf" required>
                 </div>
                 
